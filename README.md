@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-:telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications.
+:telescope: I am a Software Engineer With 3 years of Experience Working On developing Mobile and Web applications Systems.
 
-:seedling: Exploring Technical Content Writing.
+:seedling: Developing Ai Systems.
 
 :zap: In my free time, I solve problems and read tech articles.
 
-:mailbox:How to reach Me: <a href="https://yason.netlify.app" target="_blank" rel="noreferer">Peter Yasir</a>
+:mailbox:Email Me: <a href="mailto:peteryasir23@gmail.com" target="_blank" rel="noreferer">Peter Yasir</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
