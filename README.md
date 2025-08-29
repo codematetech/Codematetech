@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-<span>I'm a passionate and dedicated fullstack developer with a love for crafting user friendly and visually appealing website. I'm experienced in frontend and backend technologies and have a knack for turning ideas into functional and responsive web solutions. </span>
+<span></span>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
